@@ -1,4 +1,4 @@
-const socket = io('http://localhost:8800');
+const socket = io('https://chatappbackendindia.herokuapp.com');
 
 const form = document.getElementById('send-container');
 const messageInput = document.getElementById('messageInp')
