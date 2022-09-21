@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "nodemon": "^2.0.19"
-  }
+  },
+  "name": "chatapp",
+  "description": "��#\u0000 \u0000c\u0000h\u0000a\u0000t\u0000A\u0000p\u0000p\u0000B\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000#\u0000 \u0000c\u0000h\u0000a\u0000t\u0000A\u0000p\u0000p\u0000F\u0000r\u0000o\u0000n\u0000t\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SubrataDawn24/chatAppFrontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SubrataDawn24/chatAppFrontend/issues"
+  },
+  "homepage": "https://github.com/SubrataDawn24/chatAppFrontend#readme"
 }
